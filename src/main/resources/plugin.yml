@@ -1,0 +1,8 @@
+name: cIcon
+main: com.censoredsoftware.cicon.cIconPlugin
+version: ${project.version}
+authors: [_Alex, HmmmQuestionMark]
+commands:
+# Console Commands
+  ciconreload:
+    usage: /<command>
